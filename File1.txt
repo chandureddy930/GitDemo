@@ -2,4 +2,6 @@ hi thios is the first git demo code...!!!(some more changes)
 
 Change ==> 1
 
-Change <(added at the left)==> 2
+
+Change <(added at the left)==> 2 (new conflict change)
+
