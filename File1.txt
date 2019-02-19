@@ -6,3 +6,5 @@ Change ==> 1
 Change <(added at the left)==> 2 (new conflict change)
 
 add new lin of commit with the remote
+
+new line at remote
